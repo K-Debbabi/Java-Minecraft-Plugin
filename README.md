@@ -4,7 +4,7 @@
 
 This is the a small experiment, in wich I am trying to code a Minecraft-plugin (for paper servers!).
 
-I use Bukkit to access all of the Minecraft-Commands / funktion
+I use Bukkit to access all of the Minecraft-Commands / funktions.
 
 
 
@@ -12,11 +12,11 @@ I use Bukkit to access all of the Minecraft-Commands / funktion
 
 - A  little Status / Blocks Display ( I am testing the position command)
 
-- A /test command to check if the Plugin is in the paper server
+- A `/test command` to check if the Plugin is in the paper server
 
-- A /spawn command to Teleport the player using it to \[ 0 100 0]
+- A `/spawn command` to Teleport the player using it to \[ 0 100 0]
 
-- A /status command that shows your you player UUID and ur Status ( ONLINE / OFFLINE / WAITING / FIGHTING )
+- A `/status command` that shows your, your player UUID and ur Status ( ONLINE / OFFLINE / WAITING / FIGHTING )
 
 
 
