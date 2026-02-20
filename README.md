@@ -2,9 +2,9 @@
 
 
 
-This is the a small experiment, where I am trying to code a Minecraft-plugin (for paper servers!),
+This is the a small experiment, in wich I am trying to code a Minecraft-plugin (for paper servers!).
 
-where I use Bukkit to access all of the Minecraft-Commands / funktion
+I use Bukkit to access all of the Minecraft-Commands / funktion
 
 
 
