@@ -1,0 +1,20 @@
+name: pvpplugin
+version: 0.1.0
+main: pvpplugin.PVPPlugin
+api-version: '1.21'
+
+commands:
+  test:
+    description: warps u to spawn
+    usage: /test
+  spawn:
+    description: Teleport 10 blocks upward
+    usage: /spawn
+    permission: pvpplugin.up
+  status:
+    description: Show your status
+    usage: /status
+
+permissions:
+  pvpplugin.up:
+    default: true
