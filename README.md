@@ -12,17 +12,17 @@ I use Bukkit to access all of the Minecraft-Commands / funktions.
 
 - A  little Status / Blocks Display ( I am testing the position command)
 
-- A `/test command` to check if the Plugin is in the paper server
+- A `/test` command to check if the Plugin is in the paper server
 
-- A `/spawn command` to Teleport the player using it to \[ 0 100 0]
+- A `/spawn` command to Teleport the player using it to \[ 0 100 0]
 
-- A `/status command` that shows your, your player UUID and ur Status ( ONLINE / OFFLINE / WAITING / FIGHTING )
+- A `/status` command that shows your, your player UUID and ur Status ( ONLINE / OFFLINE / WAITING / FIGHTING )
 
 
 
-You can download the plugin to test it for your self, although I am planing on releasing a release soon,
+You can download the plugin to test it for your self, although I am planing on releasing it soon,
 
-so there might be an update on thate in the comming weeks!
+so there might be an update on thia in the comming weeks!
 
 
 
