@@ -1,4 +1,4 @@
-\# Minecraft - PVPplugin
+# Minecraft - PVPplugin
 
 
 
@@ -8,15 +8,15 @@ where I use Bukkit to access all of the Minecraft-Commands / funktion
 
 
 
-\## What is inside this plugin at the current time?
+## What is inside this plugin at the current time?
 
-\- A  little Status / Blocks Display ( I am testing the position command)
+- A  little Status / Blocks Display ( I am testing the position command)
 
-\- A /test command to check if the Plugin is in the paper server
+- A /test command to check if the Plugin is in the paper server
 
-\- A /spawn command to Teleport the player using it to \[ 0 100 0]
+- A /spawn command to Teleport the player using it to \[ 0 100 0]
 
-\- A /status command that shows your you player UUID and ur Status ( ONLINE / OFFLINE / WAITING / FIGHTING )
+- A /status command that shows your you player UUID and ur Status ( ONLINE / OFFLINE / WAITING / FIGHTING )
 
 
 
