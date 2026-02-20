@@ -20,9 +20,9 @@ I use Bukkit to access all of the Minecraft-Commands / funktions.
 
 
 
-You can download the plugin to test it for your self, although I am planning on releasing it soon,
+You can download the plugin to test it for your self, although I plan on puplishing it,
 
-so there might be an update on thia in the comming weeks!
+so there might be an update on this in the comming weeks!
 
 
 
